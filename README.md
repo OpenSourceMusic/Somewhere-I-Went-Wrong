@@ -1,6 +1,9 @@
 # Somewhere-I-Went-Wrong
 Genre - Chiptune
 
+Song Name: Somewhere I Went Wrong
+Artist: Josh Penn-Pierson
+
 [Youtube Link](https://www.youtube.com/watch?v=eih-ojli86E&list=PLye9mcKwe2zy3KW8uK_3F7HVMjJjdqSqU&index=32)
 
 Current Song Version: 1.0
